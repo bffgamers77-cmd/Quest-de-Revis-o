@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "missao.aliens",
   "version": "1.0.0",
   "description": "",
   "main": "desafio.js",
+=======
+  "name": "projeto-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+>>>>>>> ef24fe5110398c3557516565a103b5307be0482b
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
